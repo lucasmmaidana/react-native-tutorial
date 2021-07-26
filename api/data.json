@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Martine of Martine's Table",
+    "city": "Amsterdam",
+    "cuisineStyle": ["French", "Dutch", "European"],
+    "ranking": 1,
+    "rating": 5,
+    "reviewsCount": 136,
+    "id": 1
+  },
+  {
+    "name": "De Silveren Spiegel",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "Dutch",
+      "European",
+      "Vegetarian Friendly",
+      "Gluten Free Options"
+    ],
+    "ranking": 2,
+    "rating": 4.5,
+    "reviewsCount": 812,
+    "id": 2
+  },
+  {
+    "name": "La Rive",
+    "city": "Berlin",
+    "cuisineStyle": [
+      "Mediterranean",
+      "French",
+      "International",
+      "European",
+      "Vegetarian Friendly",
+      "Vegan Options"
+    ],
+    "ranking": 3,
+    "rating": 4.5,
+    "reviewsCount": 567,
+    "id": 3
+  },
+  {
+    "name": "Vinkeles",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "French",
+      "European",
+      "International",
+      "Contemporary",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 4,
+    "rating": 5,
+    "reviewsCount": 564,
+    "id": 4
+  },
+  {
+    "name": "Librije's Zusje Amsterdam",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "Dutch",
+      "European",
+      "International",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 5,
+    "rating": 4.5,
+    "reviewsCount": 316,
+    "id": 5
+  },
+  {
+    "name": "Ciel Bleu Restaurant",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "Contemporary",
+      "International",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 6,
+    "rating": 4.5,
+    "reviewsCount": 745,
+    "id": 6
+  },
+  {
+    "name": "Zaza's",
+    "city": "Berlin",
+    "cuisineStyle": [
+      "French",
+      "International",
+      "Mediterranean",
+      "European",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 7,
+    "rating": 4.5,
+    "reviewsCount": 1455,
+    "id": 7
+  },
+  {
+    "name": "Blue Pepper Restaurant And Candlelight Cruises",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "Asian",
+      "Indonesian",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 8,
+    "rating": 4.5,
+    "reviewsCount": 675,
+    "id": 8
+  },
+  {
+    "name": "Teppanyaki Restaurant Sazanka",
+    "city": "Milan",
+    "cuisineStyle": [
+      "Japanese",
+      "Asian",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 9,
+    "rating": 4.5,
+    "reviewsCount": 923,
+    "id": 9
+  },
+  {
+    "name": "Rob Wigboldus Vishandel",
+    "city": "Amsterdam",
+    "cuisineStyle": ["Dutch", "Seafood", "Fast Food"],
+    "ranking": 10,
+    "rating": 4.5,
+    "reviewsCount": 450,
+    "id": 10
+  },
+  {
+    "name": "The Happy Bull",
+    "city": "Munich",
+    "cuisineStyle": [
+      "American",
+      "Bar",
+      "European",
+      "Vegetarian Friendly",
+      "Gluten Free Options"
+    ],
+    "ranking": 11,
+    "rating": 4.5,
+    "reviewsCount": 295,
+    "id": 11
+  },
+  {
+    "name": "Gartine",
+    "city": "Berlin",
+    "cuisineStyle": [
+      "French",
+      "Dutch",
+      "International",
+      "European",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 12,
+    "rating": 4.5,
+    "reviewsCount": 967,
+    "id": 12
+  },
+  {
+    "name": "Restaurant Adam",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "French",
+      "European",
+      "Central European",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 13,
+    "rating": 4.5,
+    "reviewsCount": 368,
+    "id": 13
+  },
+  {
+    "name": "Biercafe Gollem",
+    "city": "Amsterdam",
+    "cuisineStyle": ["Bar", "Pub"],
+    "ranking": 14,
+    "rating": 4.5,
+    "reviewsCount": 586,
+    "id": 14
+  },
+  {
+    "name": "Restaurant Daalder",
+    "city": "Munich",
+    "cuisineStyle": [
+      "French",
+      "Dutch",
+      "International",
+      "European",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 15,
+    "rating": 4.5,
+    "reviewsCount": 1246,
+    "id": 15
+  },
+  {
+    "name": "Greenwoods Keizersgracht",
+    "city": "Milan",
+    "cuisineStyle": [
+      "Dutch",
+      "Cafe",
+      "European",
+      "British",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 16,
+    "rating": 4.5,
+    "reviewsCount": 1391,
+    "id": 16
+  },
+  {
+    "name": "Omelegg - city Centre",
+    "city": "Brussels",
+    "cuisineStyle": [
+      "Dutch",
+      "European",
+      "Healthy",
+      "International",
+      "Vegetarian Friendly",
+      "Gluten Free Options"
+    ],
+    "ranking": 17,
+    "rating": 4.5,
+    "reviewsCount": 1633,
+    "id": 17
+  },
+  {
+    "name": "Brasserie Ambassade",
+    "city": "Munich",
+    "cuisineStyle": [
+      "French",
+      "Bar",
+      "International",
+      "European",
+      "Seafood",
+      "Vegetarian Friendly",
+      "Gluten Free Options"
+    ],
+    "ranking": 18,
+    "rating": 4.5,
+    "reviewsCount": 958,
+    "id": 18
+  },
+  {
+    "name": "Sherpa Restaurant",
+    "city": "Amsterdam",
+    "cuisineStyle": [
+      "Indian",
+      "Tibetan",
+      "Nepali",
+      "Vegetarian Friendly",
+      "Vegan Options",
+      "Gluten Free Options"
+    ],
+    "ranking": 19,
+    "rating": 4.5,
+    "reviewsCount": 426,
+    "id": 19
+  },
+  {
+    "name": "La Maschera Lillotatini",
+    "city": "Brussels",
+    "cuisineStyle": [
+      "Italian",
+      "Mediterranean",
+      "European",
+      "Vegetarian Friendly"
+    ],
+    "ranking": 20,
+    "rating": 4.5,
+    "reviewsCount": 421,
+    "id": 20
+  },
+  {
+    "name": "Senses Restaurant",
+    "city": "Brussels",
+    "cuisineStyle": ["International", "European"],
+    "ranking": 21,
+    "rating": 4.5,
+    "reviewsCount": 1380,
+    "id": 21
+  }
+]
